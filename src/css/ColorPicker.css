@@ -1,0 +1,11 @@
+.shadow {
+    transition: box-shadow .3s;
+    float: left;
+    border-radius:10px;
+    border: 1px solid #ccc;
+  }
+  
+.shadow:hover {
+    box-shadow: 0 0 11px rgba(255, 255, 255, 1); 
+  }
+  
