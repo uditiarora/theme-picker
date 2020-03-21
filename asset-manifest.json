@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/theme-picker/static/css/main.cfb9ba3d.chunk.css",
+    "main.js": "/theme-picker/static/js/main.8c72a84f.chunk.js",
+    "main.js.map": "/theme-picker/static/js/main.8c72a84f.chunk.js.map",
+    "runtime-main.js": "/theme-picker/static/js/runtime-main.fcb7a79b.js",
+    "runtime-main.js.map": "/theme-picker/static/js/runtime-main.fcb7a79b.js.map",
+    "static/js/2.d760b9e4.chunk.js": "/theme-picker/static/js/2.d760b9e4.chunk.js",
+    "static/js/2.d760b9e4.chunk.js.map": "/theme-picker/static/js/2.d760b9e4.chunk.js.map",
+    "index.html": "/theme-picker/index.html",
+    "precache-manifest.9ed55959e87e912c1a580c1bf357dd4e.js": "/theme-picker/precache-manifest.9ed55959e87e912c1a580c1bf357dd4e.js",
+    "service-worker.js": "/theme-picker/service-worker.js",
+    "static/css/main.cfb9ba3d.chunk.css.map": "/theme-picker/static/css/main.cfb9ba3d.chunk.css.map",
+    "static/js/2.d760b9e4.chunk.js.LICENSE.txt": "/theme-picker/static/js/2.d760b9e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcb7a79b.js",
+    "static/js/2.d760b9e4.chunk.js",
+    "static/css/main.cfb9ba3d.chunk.css",
+    "static/js/main.8c72a84f.chunk.js"
+  ]
+}
