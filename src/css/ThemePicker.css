@@ -53,3 +53,17 @@
 .text3 {
   font-size: 100px;
 }
+.scroll-down {
+    text-align: center;
+    width: 100%;
+    display: block;
+    color:#def2f1;
+    
+    
+}
+.my_icon{
+    transition: all .2s ease-in-out;
+}
+.my_icon:hover {
+    transform: scale(1.2);
+}
