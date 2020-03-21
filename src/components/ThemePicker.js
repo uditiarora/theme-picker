@@ -1,6 +1,7 @@
 import React from 'react';
 import '../css/ThemePicker.css';
 import ColorPicker from './ColorPicker';
+import ColorPalette from './ColorPalette';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import * as Scroll from 'react-scroll';
 import { Link, Element , Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
@@ -35,7 +36,9 @@ function ThemePicker() {
             </div>
             <div>
             <Element name="test1" >
-            <div > </div>
+                <div className="main2" > 
+                   <div className="container"><ColorPalette /> </div>
+                </div>
             </Element>
             </div>
         </div>
